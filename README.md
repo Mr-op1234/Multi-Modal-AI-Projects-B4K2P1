@@ -1,1 +1,3 @@
 # Multi-Modal-AI-Projects-B4K2P1
+
+Description: This repository contains a collection of multi-modal AI projects that demonstrate the integration of different modalities (e.g., text, images, audio, and video) to solve real-world problems. Each project is designed to be self-contained and can be run independently. The projects cover a range of applications, including image and video analysis, natural language processing, and audio processing.
